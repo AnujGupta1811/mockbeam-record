@@ -6,6 +6,7 @@ build/
 # MockBeam output — may contain auth tokens and personal data
 mocks/recorded.yaml
 *.yaml.tmp
+demo.tape
 
 # IDE
 .idea/

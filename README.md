@@ -1,5 +1,7 @@
 # MockBeam Record
 
+![MockBeam demo](https://raw.githubusercontent.com/AnujGupta1811/mockbeam_record/main/demo.gif)
+
 **Never write a mock response by hand again.**
 
 MockBeam Record is a Dart CLI proxy that sits between your Flutter app and your
