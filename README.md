@@ -1,6 +1,6 @@
 # MockBeam Record
 
-![MockBeam demo](https://raw.githubusercontent.com/AnujGupta1811/mockbeam_record/main/demo.gif)
+![MockBeam demo](https://raw.githubusercontent.com/AnujGupta1811/mockbeam-record/main/demo.gif)
 
 **Never write a mock response by hand again.**
 
