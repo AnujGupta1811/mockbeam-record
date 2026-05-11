@@ -1,0 +1,13 @@
+# Dart tooling
+.dart_tool/
+.packages
+build/
+
+# MockBeam output — may contain auth tokens and personal data
+mocks/recorded.yaml
+*.yaml.tmp
+
+# IDE
+.idea/
+.vscode/
+*.iml

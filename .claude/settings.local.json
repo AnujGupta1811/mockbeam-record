@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dart run *)",
+      "Bash(curl -s http://localhost:8080/users/1)",
+      "Bash(kill %1)",
+      "Bash(wait)",
+      "Bash(curl -s http://localhost:8080/users/me)",
+      "Bash(curl -s https://jsonplaceholder.typicode.com/users/1)",
+      "Bash(curl -v https://jsonplaceholder.typicode.com/users/1)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(dart analyze *)",
+      "Bash(dart pub *)",
+      "Bash(dart test *)"
+    ]
+  }
+}
