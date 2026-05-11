@@ -1,3 +1,7 @@
+## 1.0.1
+
+- Fix: corrected copyright holder name in LICENSE.
+
 ## 1.0.0
 
 - Initial release.

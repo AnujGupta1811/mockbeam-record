@@ -250,4 +250,4 @@ networks against non-production endpoints.
 
 ## License
 
-[MIT](LICENSE) — © 2026 Anuj Gupta
+[MIT](LICENSE) — © 2026 AnujGupta1811

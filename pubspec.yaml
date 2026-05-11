@@ -1,6 +1,6 @@
 name: mockbeam_record
 description: A Dart CLI proxy that captures real HTTP API responses and writes them as dio_mock_interceptor-compatible YAML.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/AnujGupta1811/mockbeam-record
 
 environment:
